@@ -125,14 +125,7 @@ export default function AdminLogin() {
             </button>
           </form>
 
-          {/* Demo Credentials */}
-          <div className="mt-8 p-4 bg-white/5 rounded-xl border border-white/10">
-            <p className="text-white/40 text-xs text-center mb-2">Demo Credentials</p>
-            <div className="text-white/60 text-sm space-y-1">
-              <p className="text-center">Email: <span className="font-mono bg-white/10 px-2 py-0.5 rounded">admin@youssef.studio</span></p>
-              <p className="text-center">Password: <span className="font-mono bg-white/10 px-2 py-0.5 rounded">admin123</span></p>
-            </div>
-          </div>
+          
         </div>
 
         {/* Back to Site */}
